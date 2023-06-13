@@ -1,0 +1,10 @@
+* pandocl
+
+Document converter
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/pandocl.git   |
+| commit  | f05f493  |
+| systems | pandocl |
+|---------+-------------------------------------------|
+
